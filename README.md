@@ -3,6 +3,7 @@
 ## lightlayer 介绍
 
 lightlayer 是一家提供 VPS 主机服务的供应商，特别针对中国大陆用户提供优化线路的菲律宾 VPS。其服务器位于菲律宾马尼拉的数据中心，支持自定义资源配置，如选择 CPU、内存、硬盘、带宽、IP、快照等。lightlayer 的菲律宾优化线路 VPS 提供两种套餐：不限流量可升级带宽和限制流量大带宽，用户可根据需求选择合适的套餐。
+![image](https://github.com/user-attachments/assets/a949d1bb-9542-4bda-8e0b-a4458d7d8a13)
 
 ## lightlayer 官网地址
 
